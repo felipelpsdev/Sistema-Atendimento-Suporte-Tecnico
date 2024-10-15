@@ -1,0 +1,10 @@
+1
+igor
+98985578318
+celular queimou
+0
+2
+felipe
+98985578318
+tela quebrou
+1
